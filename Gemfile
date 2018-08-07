@@ -10,7 +10,7 @@ gem 'pry'
 gem 'pry-nav'
 gem 'rake'
 gem 'rspec'
-gem 'rack'
+gem 'rack', "1.6.4"
 gem 'rack-test'
 gem 'database_cleaner', git: 'https://github.com/bmabey/database_cleaner.git'
 gem 'require_all'
